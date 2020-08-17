@@ -40,10 +40,10 @@ if __name__ == '__main__':
     #    add the file to the folder with your code in _01_drawing_ 
     
     # 2. Call the setBackground() function with the image filename inside of the parenthesis
-    # setBackground('emoji.png')
+    setBackground('M2ij.png')
     
     # 3. Create a variable called moustache and set it equal to addMoustache('moustache1.gif')
-    # moustache = addMoustache('moustache1.gif')
+    moustache = addMoustache('MSE23.gif')
 
 # ===================== DO NOT EDIT THE CODE BELOW ============================
     window.onclick(screenClicked)
