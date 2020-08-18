@@ -29,10 +29,10 @@ def screenClicked(x, y):
     print('You pressed: x=' + str(x) + ', y=' + str(y))
     
     # 4. Show your moustache by calling the .showturtle() function
-    # moustache.showturtle()
+    moustache.showturtle()
     
     # 5. Move your moustache to a new location using .goto(x, y)
-
+    moustache.goto(x,y,)
 if __name__ == '__main__':
     window = turtle.Screen()
     
@@ -43,7 +43,7 @@ if __name__ == '__main__':
     setBackground('M2ij.png')
     
     # 3. Create a variable called moustache and set it equal to addMoustache('moustache1.gif')
-    moustache = addMoustache('MSE23.gif')
+    moustache = addMoustache('MSE24.gif')
 
 # ===================== DO NOT EDIT THE CODE BELOW ============================
     window.onclick(screenClicked)
