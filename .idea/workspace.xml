@@ -20,15 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20de8922-add3-48be-98d9-e18a2066a14c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_01_drawing/MSE24.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/level0-module0-LeonardDerrick123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/level0-module0-LeonardDerrick123.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_drawing/_b_tashe_me.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_drawing/_b_tashe_me.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_01_drawing/_c_logical_turtle.py" beforeDir="false" afterPath="$PROJECT_DIR$/_01_drawing/_c_logical_turtle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_code_flow/_a_turtle_spiral.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_code_flow/_a_turtle_spiral.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_code_flow/_b_pentagon_crazy.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_code_flow/_b_pentagon_crazy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_02_code_flow/_c_flaming_ninja_star.py" beforeDir="false" afterPath="$PROJECT_DIR$/_02_code_flow/_c_flaming_ninja_star.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_a_greeter.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_a_greeter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +52,7 @@
       <recent name="$PROJECT_DIR$/_01_drawing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python._a_greeter">
+  <component name="RunManager" selected="Python._d_quiz_game">
     <configuration name="_a_greeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module0-LeonardDerrick123" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_a_turtle_spiral" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_b_mad_libs" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module0-LeonardDerrick123" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,32 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_code_flow" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_code_flow/_a_turtle_spiral.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="_b_pentagon_crazy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-LeonardDerrick123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_code_flow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_code_flow/_b_pentagon_crazy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="_c_logical_turtle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="_c_world_domination" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module0-LeonardDerrick123" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,11 +124,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_01_drawing" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_01_drawing/_c_logical_turtle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="_d_quiz_game" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module0-LeonardDerrick123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._d_quiz_game" />
+        <item itemvalue="Python._c_world_domination" />
+        <item itemvalue="Python._b_mad_libs" />
         <item itemvalue="Python._a_greeter" />
         <item itemvalue="Python._c_flaming_ninja_star" />
-        <item itemvalue="Python._b_pentagon_crazy" />
-        <item itemvalue="Python._a_turtle_spiral" />
-        <item itemvalue="Python._c_logical_turtle" />
       </list>
     </recent_temporary>
   </component>
@@ -192,24 +189,49 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1233" height="260" key="GridCell.Tab.0.bottom" timestamp="1597787720504">
+    <state width="1233" height="264" key="GridCell.Tab.0.bottom" timestamp="1597874327258">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="260" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597787720504" />
-    <state width="1233" height="260" key="GridCell.Tab.0.center" timestamp="1597787720503">
+    <state width="1233" height="264" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597874327258" />
+    <state width="1233" height="264" key="GridCell.Tab.0.center" timestamp="1597874327256">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="260" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1597787720503" />
-    <state width="1233" height="260" key="GridCell.Tab.0.left" timestamp="1597787720502">
+    <state width="1233" height="264" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1597874327256" />
+    <state width="1233" height="264" key="GridCell.Tab.0.left" timestamp="1597874327256">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="260" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1597787720502" />
-    <state width="1233" height="260" key="GridCell.Tab.0.right" timestamp="1597787720503">
+    <state width="1233" height="264" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1597874327256" />
+    <state width="1233" height="264" key="GridCell.Tab.0.right" timestamp="1597874327257">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="260" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1597787720503" />
+    <state width="1233" height="264" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1597874327257" />
+    <state width="1233" height="303" key="GridCell.Tab.1.bottom" timestamp="1597871173262">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1233" height="303" key="GridCell.Tab.1.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597871173262" />
+    <state width="1233" height="303" key="GridCell.Tab.1.center" timestamp="1597871173261">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1233" height="303" key="GridCell.Tab.1.center/0.31.1280.993@0.31.1280.993" timestamp="1597871173261" />
+    <state width="1233" height="303" key="GridCell.Tab.1.left" timestamp="1597871173261">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1233" height="303" key="GridCell.Tab.1.left/0.31.1280.993@0.31.1280.993" timestamp="1597871173261" />
+    <state width="1233" height="303" key="GridCell.Tab.1.right" timestamp="1597871173262">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1233" height="303" key="GridCell.Tab.1.right/0.31.1280.993@0.31.1280.993" timestamp="1597871173262" />
+    <state x="129" y="162" width="1022" height="732" key="SettingsEditor" timestamp="1597867751452">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state x="129" y="162" width="1022" height="732" key="SettingsEditor/0.31.1280.993@0.31.1280.993" timestamp="1597867751452" />
+    <state x="303" y="258" key="search.everywhere.popup" timestamp="1597872669763">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state x="303" y="258" key="search.everywhere.popup/0.31.1280.993@0.31.1280.993" timestamp="1597872669763" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
