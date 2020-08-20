@@ -20,12 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20de8922-add3-48be-98d9-e18a2066a14c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_04_amazing_games/cat.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/level0-module0-LeonardDerrick123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/level0-module0-LeonardDerrick123.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_c_world_domination.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_03_print_and_popups/_e_awesome_or_not.py" beforeDir="false" afterPath="$PROJECT_DIR$/_03_print_and_popups/_e_awesome_or_not.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_04_amazing_games/_a_terminator_cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/_04_amazing_games/_a_terminator_cat.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,17 +44,18 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/_01_drawing" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_04_amazing_games" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/_04_amazing_games" />
       <recent name="$PROJECT_DIR$/_01_drawing" />
     </key>
   </component>
-  <component name="RunManager" selected="Python._d_quiz_game">
-    <configuration name="_a_greeter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python._a_terminator_cat">
+    <configuration name="_a_terminator_cat" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="level0-module0-LeonardDerrick123" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,11 +63,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_04_amazing_games" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_a_greeter.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_04_amazing_games/_a_terminator_cat.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -87,27 +89,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_b_mad_libs.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="_c_flaming_ninja_star" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="level0-module0-LeonardDerrick123" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_02_code_flow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_02_code_flow/_c_flaming_ninja_star.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,13 +139,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="_e_awesome_or_not" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="level0-module0-LeonardDerrick123" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/_03_print_and_popups" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/_03_print_and_popups/_e_awesome_or_not.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python._a_terminator_cat" />
+        <item itemvalue="Python._e_awesome_or_not" />
         <item itemvalue="Python._d_quiz_game" />
         <item itemvalue="Python._c_world_domination" />
         <item itemvalue="Python._b_mad_libs" />
-        <item itemvalue="Python._a_greeter" />
-        <item itemvalue="Python._c_flaming_ninja_star" />
       </list>
     </recent_temporary>
   </component>
@@ -192,22 +194,26 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1233" height="264" key="GridCell.Tab.0.bottom" timestamp="1597874327258">
+    <state x="423" y="287" width="430" height="486" key="FileChooserDialogImpl" timestamp="1597957488628">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="264" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597874327258" />
-    <state width="1233" height="264" key="GridCell.Tab.0.center" timestamp="1597874327256">
+    <state x="423" y="287" width="430" height="486" key="FileChooserDialogImpl/0.31.1280.993@0.31.1280.993" timestamp="1597957488628" />
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom" timestamp="1597958601937">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="264" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1597874327256" />
-    <state width="1233" height="264" key="GridCell.Tab.0.left" timestamp="1597874327256">
+    <state width="1259" height="260" key="GridCell.Tab.0.bottom/0.31.1280.993@0.31.1280.993" timestamp="1597958601937" />
+    <state width="1259" height="260" key="GridCell.Tab.0.center" timestamp="1597958601936">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="264" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1597874327256" />
-    <state width="1233" height="264" key="GridCell.Tab.0.right" timestamp="1597874327257">
+    <state width="1259" height="260" key="GridCell.Tab.0.center/0.31.1280.993@0.31.1280.993" timestamp="1597958601936" />
+    <state width="1259" height="260" key="GridCell.Tab.0.left" timestamp="1597958601935">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
-    <state width="1233" height="264" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1597874327257" />
+    <state width="1259" height="260" key="GridCell.Tab.0.left/0.31.1280.993@0.31.1280.993" timestamp="1597958601935" />
+    <state width="1259" height="260" key="GridCell.Tab.0.right" timestamp="1597958601936">
+      <screen x="0" y="31" width="1280" height="993" />
+    </state>
+    <state width="1259" height="260" key="GridCell.Tab.0.right/0.31.1280.993@0.31.1280.993" timestamp="1597958601936" />
     <state width="1233" height="303" key="GridCell.Tab.1.bottom" timestamp="1597871173262">
       <screen x="0" y="31" width="1280" height="993" />
     </state>
@@ -240,6 +246,11 @@
           <url>file://$PROJECT_DIR$/_02_code_flow/_a_turtle_spiral.py</url>
           <line>36</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/_03_print_and_popups/_d_quiz_game.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

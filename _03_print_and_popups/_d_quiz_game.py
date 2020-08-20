@@ -15,8 +15,7 @@ if __name__ == '__main__':
     YUI = simpledialog.askstring(None,"a question")
     #      // 3.  Use an if statement to check if their answer is correct
 
-    if "yes" ==YUI.lower() or "no" == YUI.lower() or "how am I supposed to even answer this" == YUI.lower or "this dosent make any sense" or "I get it" ==YUI.lower():
-
+    if "yes" ==YUI.lower() or "no" == YUI.lower() or "how am I supposed to even answer this" == YUI.lower() or "this dosent make any sense" == YUI.lower()  or "I get it" ==YUI.lower() or "an Answer" ==YUI.lower():
         messagebox.showinfo(None, "yes")
         ghy = 1
     else:
